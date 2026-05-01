@@ -1,10 +1,10 @@
 {
   "id": "dnd-55e-full-compendium",
   "title": "DnD 5.5e Full Compendium",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "compatibility": {
     "minimum": "13",
-    "verified": "13"
+    "verified": "14"
   },
   "authors": [
     {
@@ -87,11 +87,11 @@
       "label": "Actors",
       "path": "packs/actors",
       "type": "Actor",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
+      }
     }
   ],
   "packFolders": [

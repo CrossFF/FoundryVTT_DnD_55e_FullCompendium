@@ -1,3 +1,21 @@
-2026/06/13-17:47:35.226 4974 Recovering log #499
-2026/06/13-17:47:35.233 4974 Delete type=0 #499
-2026/06/13-17:47:35.233 4974 Delete type=3 #498
+2026/06/14-21:23:36.090 4078 Recovering log #506
+2026/06/14-21:23:36.091 4078 Delete type=0 #506
+2026/06/14-21:23:36.091 4078 Delete type=3 #504
+2026/06/14-22:47:45.854 22ac Level-0 table #510: started
+2026/06/14-22:47:45.854 22ac Level-0 table #510: 0 bytes OK
+2026/06/14-22:47:45.856 22ac Delete type=0 #508
+2026/06/14-22:47:45.857 22ac Manual compaction at level-0 from '!folders!0qKr1rbesCSNE0MA' @ 72057594037927935 : 1 .. '!items.effects!phbagNet00000000.67ofG0FVqrrkAHKa' @ 0 : 0; will stop at '!items.effects!phbagNet00000000.67ofG0FVqrrkAHKa' @ 1503 : 1
+2026/06/14-22:47:45.857 22ac Compacting 1@0 + 0@1 files
+2026/06/14-22:47:45.880 22ac Generated table #511@0: 503 keys, 400162 bytes
+2026/06/14-22:47:45.880 22ac Compacted 1@0 + 0@1 files => 400162 bytes
+2026/06/14-22:47:45.881 22ac compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/06/14-22:47:45.881 22ac Delete type=2 #505
+2026/06/14-22:47:45.897 22ac Manual compaction at level-0 from '!items.effects!phbagNet00000000.67ofG0FVqrrkAHKa' @ 1503 : 1 .. '!items.effects!phbagNet00000000.67ofG0FVqrrkAHKa' @ 0 : 0; will stop at (end)
+2026/06/14-22:47:45.917 22ac Manual compaction at level-1 from '!folders!0qKr1rbesCSNE0MA' @ 72057594037927935 : 1 .. '!items.effects!phbagNet00000000.67ofG0FVqrrkAHKa' @ 0 : 0; will stop at '!items.effects!phbagNet00000000.67ofG0FVqrrkAHKa' @ 1503 : 1
+2026/06/14-22:47:45.917 22ac Compacting 1@1 + 1@2 files
+2026/06/14-22:47:45.939 22ac Generated table #512@1: 992 keys, 913635 bytes
+2026/06/14-22:47:45.939 22ac Compacted 1@1 + 1@2 files => 913635 bytes
+2026/06/14-22:47:45.940 22ac compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/06/14-22:47:45.940 22ac Delete type=2 #5
+2026/06/14-22:47:45.940 22ac Delete type=2 #511
+2026/06/14-22:47:45.946 22ac Manual compaction at level-1 from '!items.effects!phbagNet00000000.67ofG0FVqrrkAHKa' @ 1503 : 1 .. '!items.effects!phbagNet00000000.67ofG0FVqrrkAHKa' @ 0 : 0; will stop at (end)

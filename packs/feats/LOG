@@ -1,23 +1,3 @@
-2026/06/14-21:23:36.062 41a8 Recovering log #543
-2026/06/14-21:23:36.062 41a8 Delete type=0 #543
-2026/06/14-21:23:36.062 41a8 Delete type=3 #541
-2026/06/14-21:55:45.754 22ac Moved #542 to level-1 28555 bytes OK: files[ 0 1 1 0 0 0 0 ]
-2026/06/14-22:47:45.836 22ac Level-0 table #547: started
-2026/06/14-22:47:45.843 22ac Level-0 table #547: 125478 bytes OK
-2026/06/14-22:47:45.844 22ac Delete type=0 #545
-2026/06/14-22:47:45.849 22ac Manual compaction at level-0 from '!folders!FhXHQDA7qAZPU1f8' @ 72057594037927935 : 1 .. '!items.effects!rpDrNwhAA4umUK7m.9w0XfLaA347qC8LW' @ 0 : 0; will stop at '!items!fo8St2ZqbDJ9VEKY' @ 3379 : 1
-2026/06/14-22:47:45.849 22ac Compacting 1@0 + 1@1 files
-2026/06/14-22:47:45.852 22ac Generated table #548@0: 43 keys, 30828 bytes
-2026/06/14-22:47:45.853 22ac Compacted 1@0 + 1@1 files => 30828 bytes
-2026/06/14-22:47:45.854 22ac compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/06/14-22:47:45.854 22ac Delete type=2 #542
-2026/06/14-22:47:45.854 22ac Delete type=2 #547
-2026/06/14-22:47:45.857 22ac Manual compaction at level-0 from '!items!fo8St2ZqbDJ9VEKY' @ 3379 : 1 .. '!items.effects!rpDrNwhAA4umUK7m.9w0XfLaA347qC8LW' @ 0 : 0; will stop at (end)
-2026/06/14-22:47:45.889 22ac Manual compaction at level-1 from '!folders!FhXHQDA7qAZPU1f8' @ 72057594037927935 : 1 .. '!items.effects!rpDrNwhAA4umUK7m.9w0XfLaA347qC8LW' @ 0 : 0; will stop at '!items.effects!rpDrNwhAA4umUK7m.9w0XfLaA347qC8LW' @ 3376 : 1
-2026/06/14-22:47:45.889 22ac Compacting 1@1 + 1@2 files
-2026/06/14-22:47:45.896 22ac Generated table #549@1: 200 keys, 190147 bytes
-2026/06/14-22:47:45.896 22ac Compacted 1@1 + 1@2 files => 190147 bytes
-2026/06/14-22:47:45.896 22ac compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/06/14-22:47:45.896 22ac Delete type=2 #422
-2026/06/14-22:47:45.897 22ac Delete type=2 #548
-2026/06/14-22:47:45.917 22ac Manual compaction at level-1 from '!items.effects!rpDrNwhAA4umUK7m.9w0XfLaA347qC8LW' @ 3376 : 1 .. '!items.effects!rpDrNwhAA4umUK7m.9w0XfLaA347qC8LW' @ 0 : 0; will stop at (end)
+2026/06/22-17:40:53.165 38e4 Recovering log #575
+2026/06/22-17:40:53.168 38e4 Delete type=0 #575
+2026/06/22-17:40:53.168 38e4 Delete type=3 #573

@@ -1,21 +1,3 @@
-2026/06/14-21:23:36.051 3d70 Recovering log #545
-2026/06/14-21:23:36.058 3d70 Delete type=0 #545
-2026/06/14-21:23:36.058 3d70 Delete type=3 #543
-2026/06/14-22:47:45.835 22ac Level-0 table #549: started
-2026/06/14-22:47:45.835 22ac Level-0 table #549: 0 bytes OK
-2026/06/14-22:47:45.836 22ac Delete type=0 #547
-2026/06/14-22:47:45.844 22ac Manual compaction at level-0 from '!folders!2Bw096HjE0HyGMwM' @ 72057594037927935 : 1 .. '!items.effects!vWFbbGUGJsH2QM0y.ZVPSag4hNE8rvv8m' @ 0 : 0; will stop at '!items.effects!vWFbbGUGJsH2QM0y.ZVPSag4hNE8rvv8m' @ 2050 : 1
-2026/06/14-22:47:45.844 22ac Compacting 1@0 + 0@1 files
-2026/06/14-22:47:45.847 22ac Generated table #550@0: 38 keys, 23903 bytes
-2026/06/14-22:47:45.847 22ac Compacted 1@0 + 0@1 files => 23903 bytes
-2026/06/14-22:47:45.848 22ac compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/06/14-22:47:45.848 22ac Delete type=2 #544
-2026/06/14-22:47:45.857 22ac Manual compaction at level-0 from '!items.effects!vWFbbGUGJsH2QM0y.ZVPSag4hNE8rvv8m' @ 2050 : 1 .. '!items.effects!vWFbbGUGJsH2QM0y.ZVPSag4hNE8rvv8m' @ 0 : 0; will stop at (end)
-2026/06/14-22:47:45.882 22ac Manual compaction at level-1 from '!folders!2Bw096HjE0HyGMwM' @ 72057594037927935 : 1 .. '!items.effects!vWFbbGUGJsH2QM0y.ZVPSag4hNE8rvv8m' @ 0 : 0; will stop at '!items.effects!vWFbbGUGJsH2QM0y.ZVPSag4hNE8rvv8m' @ 2050 : 1
-2026/06/14-22:47:45.882 22ac Compacting 1@1 + 1@2 files
-2026/06/14-22:47:45.888 22ac Generated table #551@1: 208 keys, 238950 bytes
-2026/06/14-22:47:45.888 22ac Compacted 1@1 + 1@2 files => 238950 bytes
-2026/06/14-22:47:45.889 22ac compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/06/14-22:47:45.889 22ac Delete type=2 #424
-2026/06/14-22:47:45.889 22ac Delete type=2 #550
-2026/06/14-22:47:45.917 22ac Manual compaction at level-1 from '!items.effects!vWFbbGUGJsH2QM0y.ZVPSag4hNE8rvv8m' @ 2050 : 1 .. '!items.effects!vWFbbGUGJsH2QM0y.ZVPSag4hNE8rvv8m' @ 0 : 0; will stop at (end)
+2026/06/22-17:40:53.155 2660 Recovering log #578
+2026/06/22-17:40:53.158 2660 Delete type=0 #578
+2026/06/22-17:40:53.158 2660 Delete type=3 #576
